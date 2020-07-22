@@ -1,0 +1,8 @@
+.MuiAvatar-root.logo {
+    width: 250px;
+    height: 250px;
+}
+
+.MuiAvatar-root.logo>.MuiAvatar-img {
+    object-fit: contain;
+}

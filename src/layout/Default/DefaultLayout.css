@@ -1,0 +1,21 @@
+#drawer>ul>.Mui-selected>div>span {
+    font-weight: bold;
+}
+
+#drawer>ul {
+    margin-top: 6px;
+}
+
+.MuiDivider-root {
+    margin: 8px 0px;
+    padding-bottom: 2px;
+}
+
+.MuiAvatar-root.logo-img {
+    width: 100px;
+    height: 100px;
+}
+
+.MuiAvatar-root.logo-img>.MuiAvatar-img {
+    object-fit: contain;
+}
